@@ -1,4 +1,4 @@
-# Discord Image Logger
+
 # By Dexty | https://github.com/xdexty0
 
 from http.server import BaseHTTPRequestHandler
